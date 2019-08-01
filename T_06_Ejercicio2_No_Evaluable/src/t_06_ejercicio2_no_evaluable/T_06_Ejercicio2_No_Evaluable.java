@@ -4,7 +4,7 @@ package t_06_ejercicio2_no_evaluable;
  * <p>fecha de inicializacion: Jul 24, 2019 4:57:36 PM<p>                                                               *
  * <p>nombre del proyecto: T_06_Ejercicio2_No_Evaluable.java<p>                                                         *
  * <p>Anteriores versiones en:</p>                                                                                      *
- * <p><a href="https://github.com/BahamutEscarlata/Ejercicios_JAVA_T_05_Inicializacion_Limpieza.git">GIT</a></p>        *
+ * <p><a href="https://github.com/BahamutEscarlata/Ejercicios_JAVA_T_06_Reutilizando_Clases">GIT</a></p>                *
  ************************************************************************************************************************
  *                                                                                                                      *
  * <h1>Función del proyecto:</h1>                                                                                       *
